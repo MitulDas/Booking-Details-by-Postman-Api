@@ -35,7 +35,7 @@ A comprehensive report for your Newman test runs, providing detailed insights an
 - Modify CSS styles in `<style>` tag for personalized themes.
 - Alter JavaScript functions for tailored interactions.
 
-## Contribution Guidelines 👥
+## Contribution and Guidelines 👥
 
 - Fork the repository.
 - Create a feature branch.
