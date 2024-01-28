@@ -1,4 +1,4 @@
-# Newman Summary Report 📊
+# Newman Summary Reports 📊
 
 A comprehensive report for your Newman test runs, providing detailed insights and easy-to-navigate results. Enhanced with a dark/light theme toggle for optimal viewing.
 
